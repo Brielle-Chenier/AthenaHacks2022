@@ -1,3 +1,7 @@
+
+![Get Nailed](https://user-images.githubusercontent.com/55968937/154861280-becb4c41-f71a-493a-8953-e94dd438e7a4.jpg)
+
+
 # AthenaHacks2022
 Get Nailed
 
@@ -21,3 +25,7 @@ We enjoyed putting our Arduino knowledge and to the test for this hack.  It was 
 
 # What's next for Get Nailed
 We would love to make our project be able to rotate about a user's hand so that it can paint every nail without having to change your finger each time. We also want to add a fan to be able to dry your nails as well as an option to pick from different colors or even set a pattern.
+
+![CAD render](https://user-images.githubusercontent.com/55968937/154861315-27cc29fb-36f2-4584-b661-43babd3f683b.png)
+
+
